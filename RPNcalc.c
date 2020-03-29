@@ -9,6 +9,7 @@
 #define MAXVAL 100
 #define MAXLINE 100
 
+/* test */
 int getop(char []);
 void push(double);
 double pop(void);
